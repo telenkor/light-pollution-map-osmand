@@ -1,41 +1,43 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
+
 <!-- PROJECT LOGO -->
 <div align="center">
   <h1 align="center">Light pollution Map OsmAnd+</h1>
 
   <p align="center">
-    Offline Light pollution Atlas for the OsmAnd+ Android application
+    Офлайн карта светового загрязнения для OsmAnd+ (Android)
     <br />
     <a href="https://github.com/telenkor/light-pollution-map-osmand/releases"><strong>Get the latest release</strong></a>
     <br />
   </p>
 </div>
 
-
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/telenkor/light-pollution-map-osmand/blob/main/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/telenkor/light-pollution-map-osmand/blob/main/README.ru.md)
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Оглавление</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">О проекте</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Начало</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Подготовка</a></li>
+        <li><a href="#installation">Установка</a></li>
       </ul>
     </li>
-    <li><a href="#disclaimer">Disclaimer</a></li>
+    <li><a href="#disclaimer">Примечание</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## О проекте
 
 ![Screenshot_20250425-215210_OsmAnd+](https://github.com/user-attachments/assets/2d919701-6686-43a4-9989-b75f710672da)
 
@@ -49,11 +51,11 @@ However, the online service is not always convenient and you want to have a perm
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Начало
 
 To install the Light pollution Map, you do not need deep knowledge or root privileges.
 
-### Prerequisites
+### Подготовка
 
 First, download the Light-pollution-20xx.sqlitedb file from the <a href="https://github.com/telenkor/light-pollution-map-osmand/releases"><strong>Releases</strong></a> to your Android phone/tablet.
 After that you need to find out where the OsmAnd+ program data is stored.
@@ -74,7 +76,7 @@ If you have difficulty determining the storage, the screenshots below show how y
   <br />
 </details>
 
-### Installation
+### Установка
 
 1. You need to move the Light-pollution-20xx.sqlitedb file to this path:
 ```
@@ -104,8 +106,8 @@ If you have difficulty determining the storage, the screenshots below show how y
 
 
 <!-- USAGE EXAMPLES -->
-## Disclaimer
+## Примечание
 
-The project was tested on the OsmAnd+ v4.8.4 application.
+Проект тестировался на OsmAnd+ v4.8.4. и Android 8, 14.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
