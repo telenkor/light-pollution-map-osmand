@@ -5,7 +5,7 @@
   <h1 align="center">Light pollution Map OsmAnd+</h1>
 
   <p align="center">
-    Offline Map of World light pollution for the OsmAnd+ mobile application on Android.
+    Offline Light pollution Atlas for the OsmAnd+ Android application
     <br />
     <a href="https://github.com/telenkor/light-pollution-map-osmand/releases"><strong>Get the latest release</strong></a>
     <br />
