@@ -55,7 +55,7 @@ To install the Light pollution Map, you do not need deep knowledge or root privi
 
 ### Prerequisites
 
-First, download the Light-pollution-2024.sqlitedb file from the <a href="https://github.com/telenkor/light-pollution-map-osmand/releases"><strong>Releases</strong></a> to your Android phone/tablet.
+First, download the Light-pollution-20xx.sqlitedb file from the <a href="https://github.com/telenkor/light-pollution-map-osmand/releases"><strong>Releases</strong></a> to your Android phone/tablet.
 After that you need to find out where the OsmAnd+ program data is stored.
 There are only two options:
 * Internal memory
@@ -76,7 +76,7 @@ If you have difficulty determining the storage, the screenshots below show how y
 
 ### Installation
 
-1. You need to move the Light-pollution-2024.sqlitedb file to this path:
+1. You need to move the Light-pollution-20xx.sqlitedb file to this path:
 ```
 /YOUR STORAGE/Android/data/net.osmand.plus/files/tiles
 ```
@@ -95,7 +95,7 @@ If you have difficulty determining the storage, the screenshots below show how y
 4. Everything is ready.
    <br />
    It will be displayed on top of the main map.
-   Using the blue slider at the bottom of the screen we can adjust the transparency of the Light-pollution-2024 map layer:
+   Using the blue slider at the bottom of the screen we can adjust the transparency of the Light pollution Map layer:
 
    ![Screenshot_20250425-215210_OsmAnd+_slider](https://github.com/user-attachments/assets/a4e9125f-198b-43bc-a816-77c8022af63c)
 
@@ -106,6 +106,6 @@ If you have difficulty determining the storage, the screenshots below show how y
 <!-- USAGE EXAMPLES -->
 ## Disclaimer
 
-The Light pollution Map was tested on the OsmAnd+ v4.8.4 application.
+The project was tested on the OsmAnd+ v4.8.4 application.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
