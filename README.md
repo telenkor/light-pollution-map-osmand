@@ -1,5 +1,6 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
+
 <!-- PROJECT LOGO -->
 <div align="center">
   <h1 align="center">Light pollution Map OsmAnd+</h1>
@@ -12,7 +13,8 @@
   </p>
 </div>
 
-
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/telenkor/light-pollution-map-osmand/edit/main/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/telenkor/light-pollution-map-osmand/edit/main/README.ru.md)
 
 <!-- TABLE OF CONTENTS -->
 <details>
