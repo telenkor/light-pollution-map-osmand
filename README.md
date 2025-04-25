@@ -13,9 +13,6 @@
   </p>
 </div>
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/telenkor/light-pollution-map-osmand/blob/main/README.md)
-[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/telenkor/light-pollution-map-osmand/blob/main/README.ru.md)
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
