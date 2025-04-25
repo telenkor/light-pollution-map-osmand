@@ -51,7 +51,7 @@ However, the online service is not always convenient and you want to have a perm
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To install the file with the light map, you do not need deep knowledge or root privileges.
+To install the Light pollution Map, you do not need deep knowledge or root privileges.
 
 ### Prerequisites
 
