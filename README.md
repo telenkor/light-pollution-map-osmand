@@ -97,8 +97,7 @@ If you have difficulty determining the storage, the screenshots below show how y
    It will be displayed on top of the main map.
    Using the blue slider at the bottom of the screen we can adjust the transparency of the Light-pollution-2024 map layer:
 
-   ![Screenshot_20250425-215210_OsmAnd+_slider](https://github.com/user-attachments/assets/a95d1d8e-1ded-4689-8dcd-d177d95cffa6)
-
+   ![Screenshot_20250425-215210_OsmAnd+_slider](https://github.com/user-attachments/assets/a4e9125f-198b-43bc-a816-77c8022af63c)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
