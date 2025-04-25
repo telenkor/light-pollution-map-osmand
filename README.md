@@ -86,7 +86,7 @@ If you have difficulty determining the storage, the screenshots below show how y
    ![01](https://github.com/user-attachments/assets/accadc86-f2b6-4980-be56-093bf3710268)
 
 
-3. Set the Map as the top layer:
+3. Set the Light pollution Map as the top layer:
 
    ![Screenshot_20250425-223214_OsmAnd+_conf_map](https://github.com/user-attachments/assets/045d887d-74f7-49cf-b229-a81941770a58)
 
