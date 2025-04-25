@@ -13,8 +13,8 @@
   </p>
 </div>
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/telenkor/light-pollution-map-osmand/edit/main/README.md)
-[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/telenkor/light-pollution-map-osmand/edit/main/README.ru.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/telenkor/light-pollution-map-osmand/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/telenkor/light-pollution-map-osmand/README.ru.md)
 
 <!-- TABLE OF CONTENTS -->
 <details>
