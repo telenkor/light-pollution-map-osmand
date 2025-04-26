@@ -43,7 +43,7 @@ In my subjective opinion, the best such resource is the [Light Pollution Atlas](
 
 However, the online service is not always convenient and you want to have a permanent map at hand. Since one of the most convenient navigation programs is [OsmAnd+](https://osmand.net/), I decided to transfer the [Light Pollution Atlas](https://djlorenz.github.io/astronomy/lp/overlay/dark.html) to it.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 
 
@@ -98,7 +98,7 @@ If you have difficulty determining the storage, the screenshots below show how y
 
    ![Screenshot_20250425-215210_OsmAnd+_slider](https://github.com/user-attachments/assets/a4e9125f-198b-43bc-a816-77c8022af63c)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 
 
@@ -106,5 +106,3 @@ If you have difficulty determining the storage, the screenshots below show how y
 ## Disclaimer
 
 The project was tested on the OsmAnd+ v4.8.4 application and Android 8, 14.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
