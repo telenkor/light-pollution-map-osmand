@@ -87,11 +87,11 @@ If you have difficulty determining the storage, the screenshots below show how y
 
 3. Set the Light pollution Map as the top layer:
 
-   ![Screenshot_20250425-223214_OsmAnd+_conf_map](https://github.com/user-attachments/assets/045d887d-74f7-49cf-b229-a81941770a58)
+   ![Screenshot_20250425-223214_OsmAnd+_conf_map](https://github.com/user-attachments/assets/e8db61d3-e1f2-40af-a358-ca247e8f46c8)
 
-   ![Screenshot_20250425-223238_OsmAnd+_map2](https://github.com/user-attachments/assets/db8d720c-0a84-4bed-ac9c-36099ae51012)
+   ![Screenshot_20250425-223238_OsmAnd+_map2](https://github.com/user-attachments/assets/65954c03-3f16-47bf-8d9c-fa6f6f0e3668)
 
-4. Everything is ready.
+5. Everything is ready.
    <br />
    It will be displayed on top of the main map.
    Using the blue slider at the bottom of the screen we can adjust the transparency of the Light pollution Map layer:
