@@ -105,4 +105,4 @@ If you have difficulty determining the storage, the screenshots below show how y
 <!-- USAGE EXAMPLES -->
 ## Disclaimer
 
-The Project was tested on the OsmAnd+ v4.8.4 application and Android 8, Android 14.
+The Project was tested on the OsmAnd+ v4.8.4 application and Android 8/14.
